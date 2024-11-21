@@ -1,0 +1,26 @@
+{
+  "name": "gh-labels",
+  "version": "0.1.0",
+  "description": "Central repository for GitHub labels",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/gh-labels.git"
+  },
+  "keywords": [
+    "github",
+    "github-labels"
+  ],
+  "author": "Stefan Walther",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanwalther/gh-labels/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/gh-labels#readme"
+}
