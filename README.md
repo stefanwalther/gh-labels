@@ -10,6 +10,8 @@ This repository acts as a central repository to provide definitions for GitHub l
 
 Labels are managed in the various branches of this repo.
 
+This works perfectly in combination with the [gh-labels-action](https://github.com/julbme/gh-action-manage-label) GitHub action (or similar ones).
+
 ## Color Schema
 
 Below are charts describing all of the common labels and colors and some guidance how they should be used.
