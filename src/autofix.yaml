@@ -1,0 +1,9 @@
+# Tags for release-please
+- name: "autorelease: pending"
+  color: "aaaaaa"
+- name: "autorelease: tagged"
+  color: "aaaaaa"
+- name: "autorelease: snapshot"
+  color: "555555"
+- name: "autorelease: published"
+  color: "000000"
