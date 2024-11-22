@@ -18,6 +18,6 @@ jobs:
             src/autofix.yaml
             src/types.yaml
             src/scopes.yaml
-          skip_delete: true
+          skip_delete: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
