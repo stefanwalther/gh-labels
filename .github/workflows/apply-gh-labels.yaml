@@ -9,7 +9,7 @@ jobs:
       issues: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Manage labels
         uses: julbme/gh-action-manage-label@v1
         with:
