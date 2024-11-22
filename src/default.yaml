@@ -1,5 +1,9 @@
 - name: "easy-pick"
   color: "bcf5db"
+- name: "good first issue"
+  color: "34d058"
+- name: "help wanted"
+  color: "28a745"
 - name: "wontfix"
   color: "eeeeee"
 
@@ -11,5 +15,3 @@
   color: "01B0F1"
 - name: "prio:medium"
   color: "FFFF02"
-
-
