@@ -6,3 +6,5 @@
   color: "5a8cbf"
 - name: "scope:ability"
   color: "5a8cbf"
+- name: "scope:pre-production"
+  color: "5a8cbf"
