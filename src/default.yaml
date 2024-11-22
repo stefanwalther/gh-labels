@@ -1,5 +1,7 @@
 - name: "easy-pick"
   color: "bcf5db"
+- name: "wontfix"
+  color: "ffffff"
 
 - name: "prio:critical"
   color: "FE0000"
@@ -19,7 +21,4 @@
   color: "efefef"
 - name: "scope:ability"
   color: "efefef"
-
-- name: "wontfix"
-  color: "ffffff"
 

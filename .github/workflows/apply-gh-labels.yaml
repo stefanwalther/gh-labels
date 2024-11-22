@@ -13,7 +13,11 @@ jobs:
       - name: Manage labels
         uses: julbme/gh-action-manage-label@v1
         with:
-          from: src/autofix.yaml
+          from: |
+            src/default.yaml
+            src/autofix.yaml
+            src/types.yaml
+
           skip_delete: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
