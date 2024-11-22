@@ -1,0 +1,8 @@
+- name: "scope:pre-production"
+  color: "efefef"
+- name: "scope:auth"
+  color: "efefef"
+- name: "scope:authz"
+  color: "efefef"
+- name: "scope:ability"
+  color: "efefef"
