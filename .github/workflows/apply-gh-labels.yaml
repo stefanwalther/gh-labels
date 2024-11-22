@@ -1,13 +1,16 @@
+name: Manage Labels
+
 on: [push]
 
 jobs:
-  build:
+  label:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Synchronize labels
+        uses: actions/checkout@v2
+      - name: Manage labels
         uses: julbme/gh-action-manage-label@v1
         with:
           from: src/autofix.yaml
