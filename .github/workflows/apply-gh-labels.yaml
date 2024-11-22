@@ -10,7 +10,7 @@ jobs:
       - name: Synchronize labels
         uses: julbme/gh-action-manage-label@v1
         with:
-          from: ./src/labels.yaml
+          from: ./src/autofix.yaml
           skip_delete: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
