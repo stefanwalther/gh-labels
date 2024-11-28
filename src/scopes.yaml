@@ -18,6 +18,8 @@
   color: "5a8cbf"
 - name: "scope:early-access"
   color: "5a8cbf"
+- name: "scope:emails"
+  color: "5a8cbf"
 - name: "scope:goals"
   color: "5a8cbf"
 - name: "scope:mails"
